@@ -1,0 +1,22 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Learn gulp by building an awesome development environment",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenatman/supergulp.git"
+  },
+  "author": "Cho Yunsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenatman/supergulp/issues"
+  },
+  "homepage": "https://github.com/kenatman/supergulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
